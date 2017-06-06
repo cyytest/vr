@@ -1,0 +1,7 @@
+config/
+node_modules/
+package.json
+public/
+scripts/
+source.zip
+yarn.lock
